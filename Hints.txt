@@ -1,0 +1,11 @@
+#Array
+
+Anagram - create dict with key as letters and add values on first string while subtracting on second string. If end result is 0 its an anagram
+
+Array pair sum - create set of seen & output, subtract arr val with num and if its in seen create output pair else add it to seen
+
+Find missing element - zip both arrays and sort, loop through paris if not equal return val
+
+Largest cont sum - current_sum = max(current_sum + num, num), max_sum = max(current_sum, max_sum)
+
+String compression - loop over string if s[i] == s[i-1] increase count
